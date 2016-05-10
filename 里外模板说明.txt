@@ -1,0 +1,5 @@
+1.default 下的layout处理 通过判断是否是 默认blue主题，会员中心，装修所选模板  加载对应的样式 
+
+	会员中心对应头尾文件：header.html footer.html
+	默认主题对应头尾文件：header_lw.html footer_lw.html
+	装修所选模板对应头尾文件：header1.html footer1.html
